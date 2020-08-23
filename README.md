@@ -13,7 +13,7 @@
 
 ### Interest
 - :star::star:**Kubernetes**:star::star:
-- Kubernetes Management Platform (OCP, Rancher)
+- PaaS Platform based on Kubernetes, Kubernetes Management Platform (OCP, Rancher)
 - Kubernetes 3rd-party open source and CRD controller
 - Silicon Valley Culture (chase mission for service, not money)
 
@@ -21,6 +21,6 @@
 <div>
 <br/>
 
-[![deepdiveinwinter's github stats](https://github-readme-stats.vercel.app/api?username=deepdiveinwinter)](https://github.com/deepdiveinwinter/github-readme-stats)
+[![deepdiveinwinter's github stats](https://github-readme-stats.vercel.app/api?username=deepdiveinwinter)](https://github.com/deepdiveinwinter)
 
 </div>
