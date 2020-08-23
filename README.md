@@ -1,4 +1,5 @@
 
+![pengsu-is-love](images/pengsu-is-love.jpg)
 
 ### Software Engineer on Cloud
 - started my career as a game programmer (using Unity3D, C# Script)
