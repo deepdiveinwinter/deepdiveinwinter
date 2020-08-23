@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**deepdiveinwinter/deepdiveinwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Software Engineer on Cloud
+- Software Enginner on Cloud (develop PaaS solution for cloud native application)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interest
+- :star::star:**Kubernetes**:star::star:
+- Kubernetes Management Platform (OCP, Rancher)
+- Kubernetes 3rd-party open source and CRD controller
+- Silicon Valley Culture (chase mission for service, not money)
+
+<div align=center>
+
+[![deepdiveinwinter's github stats](https://github-readme-stats.vercel.app/api?username=deepdiveinwinter)](https://github.com/deepdiveinwinter/github-readme-stats)
+
+</div>
