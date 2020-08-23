@@ -6,8 +6,8 @@
 </div>
 
 ### Software Engineer on Cloud
-- started my career as a game programmer (using Unity3D, C# Script)
-- completed PoC project for migration legacy HR Software to Cloud (on k8s)
+- started my career as a game programmer (using Unity3D, C# Script) on enish
+- completed PoC project for migration legacy HR Software to Cloud (on k8s) on SYDS
 - develop PaaS solution for cloud native application
 - develop Monitoring System using TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor)
 
