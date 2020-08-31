@@ -9,7 +9,7 @@
 - started my career as a game programmer (using Unity3D, C# Script) at enish (JP/KOR)
 - completed PoC project for migration legacy HR Solution to Cloud (on k8s/SK CloudZ) at SYDS (KOR)
 - develop PaaS solution for cloud native application
-- develop Monitoring System using TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor)
+- develop Monitoring system using TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor)
 
 ### Interest
 - :star::star:**Kubernetes**:star::star:
